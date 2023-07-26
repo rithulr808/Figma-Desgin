@@ -1,6 +1,4 @@
-# Figma-Design
-
-## 01 COPY.UI
+# 01 COPY.UI
 
 This is a mockup UI for following design 
 
@@ -17,3 +15,4 @@ The page will reload when you make changes.
 
  ![Copyui](./UI/CopyUI.png)
  
+This is a mockup UI was made in react.js
