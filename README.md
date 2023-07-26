@@ -1,6 +1,6 @@
 # Figma-Design
 
-# 01 COPY.UI
+## 01 COPY.UI
 
 This is a mockup UI for following design 
 
