@@ -4,7 +4,7 @@
 
 This is a mockup UI for following design 
 
- ![Copyui](./COPYUI.png)
+ ![Copyui](./UI/COPYUI.png)
 
 ### `npm start`
 
@@ -15,7 +15,7 @@ The page will reload when you make changes.\
 
 ### The mockup page 
 
- ![Copyui](./CopyUI.png)
+ ![Copyui](./UI/CopyUI.png)
  
 ##
 This mockup was made with react.js :grin:	
