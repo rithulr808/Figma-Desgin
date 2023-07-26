@@ -17,5 +17,3 @@ The page will reload when you make changes.
 
  ![Copyui](./UI/CopyUI.png)
  
-##
-This mockup was made with react.js :grin:	
